@@ -14,7 +14,7 @@ export default function Home() {
             <Image src={profilePic} alt="Picture of the author"/>
           </>
           <h1 className="border-l-8 border-transparent font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
-            Hello there! I'm Maksymilian Skórnóg
+            Hello there! I&apos;m Maksymilian Skórnóg
           </h1>
         </div>
         <div className="center flex flex-row justify-center place-items-center max-w-2xl mx-auto mb-16">
