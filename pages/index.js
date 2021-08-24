@@ -27,7 +27,7 @@ export default function Home() {
         
         <div className="bg-white">
           <p className="text-4 tracking-tight mb-4 text-black dark:text-white text-justify">
-            I started programming in fall of 2016 when me and my friends banded together to make Indie game on local Game Jam in Rzeszów, we made the "JSSC" game about surviving the tsunami
+            I started programming in fall of 2016 when me and my friends banded together to make Indie game on local Game Jam in Rzeszów, we made the &quot;JSSC&quot; game about surviving the tsunami
             , and got second place. It was written in GDScript in Godot engine and was a start to my little hobby which revolves around making indie games. 
           </p>
         </div>

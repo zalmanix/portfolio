@@ -17,7 +17,7 @@ export default function Home() {
           <p className="text-4 tracking-tight mb-4 text-black dark:text-white text-justify">
             I&apos;m full stack programmer currently working from home, I like to design web pages using Next.js, Angular or Laravel, and developing small indie games in my spare time.
             I&apos;m enjoying challenges and difficul projects. I once tried 3D moddeling in blender, it didn&apos;t go that bad but my passion lies in programming. Besides sitting 12h a day before my PC i enjoy cooking mealf for 
-            my entire family. In my free time I read literature, specifficly sci-fi and fition. I have a golden retriever puppy named "Alba" witch i take on walks regullary to
+            my entire family. In my free time I read literature, specifficly sci-fi and fition. I have a golden retriever puppy named &quot;Alba&quot; witch i take on walks regullary to
             nearby forest. 
           </p>
         </div>

@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Container>
         <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
-            <div class="center" className="flex flex-row justify-center place-items-center max-w-2xl mx-auto mb-16">
+            <div className="center flex flex-row justify-center place-items-center max-w-2xl mx-auto mb-16">
                 <Project
                     path="/issc.png"
                     head="Japan Sientist Simulator"
@@ -19,7 +19,7 @@ export default function Home() {
             </div>
 
             <hr className="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" />
-            <div class="center" className="flex flex-row justify-center place-items-center max-w-2xl mx-auto mb-16">
+            <div className="center flex flex-row justify-center place-items-center max-w-2xl mx-auto mb-16">
                 <Project
                     path="/hard.png"
                     head="Caveban"
