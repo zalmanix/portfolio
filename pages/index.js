@@ -27,7 +27,7 @@ export default function Home() {
         
         <div className="bg-white">
           <p className="text-4 tracking-tight mb-4 text-black dark:text-white text-justify">
-            I started programming in fall of 2016 when me and my friends banded together to make Indie game on local Game Jam in Rzeszów, we made the &quot;JSSC&quot; game about surviving the tsunami
+            I started programming in the fall of 2016 when me and my friends banded together to make an Indie game on local Game Jam in Rzeszów, we made the &quot; JSSC&quot; a game about surviving the tsunami
             , and got second place. It was written in GDScript in Godot engine and was a start to my little hobby which revolves around making indie games. 
           </p>
         </div>
@@ -41,9 +41,9 @@ export default function Home() {
           </h1>
               <div className="bg-white"> 
                 <p className="text-justify">
-                Currently I&apos;m working in SEARGIN Sp. z o.o. as a full stack developer using Laravel and Angular frameworks. Previously i worked in ProKomp Bochnia as It technician.
-                I&apos;m proficient in using JavaScript, Python, PHP, CSS and HTML. My favourite framework is NEXT.js and it&apos;s ease of making web designes. But if you are in need of 
-                other framework specialist I can learn them realy fast and with enthusiasm.
+                  Currently I&apos;m working in SEARGIN Sp. z o.o. as a full stack developer using Laravel and Angular frameworks. Previously I worked in ProKomp Bochnia as It technician.
+                  I&apos;m proficient in using JavaScript, Python, PHP, CSS, and HTML. My favorite framework is NEXT.js and it&apos;s ease of making web designs. But if you need 
+                  other framework specialists, I can learn them really fast and with enthusiasm.
                 </p>
               </div>
         </div>
