@@ -17,7 +17,7 @@ export default function Home() {
             <p className="pt-5">
               Caveban is an indie game made using Godot 3.2.3 game engine, I used Silent Wolf plugin to store data used in leaderboard but everything else is made from the ground 
               up by me. I&apos;m very proud of this project of mine, it has 60 different levels in 3 levels of difficulty (20 for each level). The game features a special
-              game mode that gradually makes levels harder and harder up to Doom eternal full mele playthrough. 
+              game mode that gradually makes levels harder and harder up to Doom eternal full mele playthrough level.  
               &nbsp;
               <NextLink href="/projects">
                 <a className="underline text-blue-400 hover:text-blue-600" target="_self">
@@ -25,8 +25,8 @@ export default function Home() {
                 </a>
               </NextLink>
             </p>
-
         </div>
+
         <div className="bg-white flex justify-center place-items-center w-full pb-8">
           <NextLink href="https://github.com/zalmanix/CaveBan">
             <a className="flex justify items-center p-1 text-gray-900 sm:p-4 dark:text-gray-100" target="_blank">
