@@ -7,7 +7,7 @@ export default function Container(props) {
     const { children, ...customMeta } = props;
     const meta = {
         title: 'Maksymilian Skórnóg – Full Stack developer',
-        description: `My portfolio`,
+        description: `Maksymilian Skórnóg – Full Stack developer`,
         type: 'website',
     };
 
