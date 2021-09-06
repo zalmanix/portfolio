@@ -11,7 +11,7 @@ const ExternalLink = ({ href, children }) => (
     </a>
 );
 
-export default function project(props) (props) {
+export default function project(props) {
     return (
       <footer className="flex flex-col justify-center place-items-center items-start max-w-2xl mx-auto w-full mb-8">
       <hr className="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" />
