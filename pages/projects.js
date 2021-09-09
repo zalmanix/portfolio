@@ -13,7 +13,7 @@ export default function Home() {
                    <a target="_self">
                         <Project
                             path="/kobyle.png"
-                            head="Szkoła Podstawowa w Kobylu"
+                            head="Primary School in Kobyle"
                             content="School webpage made for new standardized format. Work consisted of transfering old content to new website, making new visual layer for the website, teaching school stuff how to add new posts."
                         />
                    </a>
