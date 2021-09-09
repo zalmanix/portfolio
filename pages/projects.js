@@ -14,7 +14,7 @@ export default function Home() {
                         <Project
                             path="/kobyle.png"
                             head="Szkoła Podstawowa w Kobylu"
-                            content="Strona www szkoły, prace polegały na przeniesieniu dokumentów z poprzedniej strony na nowy system oraz stworzenie nowej warstwy wizualnej strony."
+                            content="School webpage made for new standardized format. Work consisted of transfering old content to new website, making new visual layer for the website, teaching school stuff how to add new posts."
                         />
                    </a>
                 </Link>
