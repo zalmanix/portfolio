@@ -15,7 +15,7 @@ export default function Home() {
                     <img src="/kobyle.png" className="rounded-lg"/>
                 </div>
                 <p className="pt-5">
-                Strona www szkoły, prace polegały na przeniesieniu dokumentów z poprzedniej strony na nowy system oraz stworzenie nowej warstwy wizualnej strony.
+                School webpage made for new standardized format. Work consisted of transfering old content to new website, making new visual layer for the website, teaching school stuff how to add new posts.
                   &nbsp;
                   <NextLink href="/projects">
                     <a className="underline text-blue-400 hover:text-blue-600" target="_self">
