@@ -1,0 +1,16 @@
+@import './colors';
+
+// Breakpoints
+$xs: 0;
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1230px;
+$xxl: 1720px;
+
+// Spacing
+$spacing: 4rem;
+$small-spacing: 1.5rem;
+
+$box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+$header-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);

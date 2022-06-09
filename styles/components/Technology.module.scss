@@ -1,0 +1,26 @@
+@import '../variables';
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: $spacing;
+
+    padding-top: $small-spacing * 2;
+
+    // width: 75%;
+    font-size: 1.25rem;
+}
+
+.stackWrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    gap: $spacing;
+}
+
+.stackIcon {
+    width: 75px;
+    height: auto;
+}
