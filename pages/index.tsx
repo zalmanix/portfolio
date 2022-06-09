@@ -25,7 +25,7 @@ const Home: NextPage = () => {
         </div>
 
         <h2 className={style.h2}>
-          Tech stack i worked with:
+          Tech stack I worked with:
         </h2>
 
         <Technology />
@@ -63,7 +63,7 @@ const Home: NextPage = () => {
         <Project
           title="Japan Sientist Simulator"
           description="
-            Japan Scientist Simulator is an indie game made only in 24h in Rzeszów Game Jam, I and my team scored second
+            Japan Scientist Simulator is an indie game made only in 24h in Rzeszów Game Jam, my team and I scored second
             place. It is made in Godot engine using GDScript. It was further developed by my team for two months but we
             abandoned the project for another one after failing to cash it. So if you are interested in publishing our
             game contact me via email. Game is a real-time strategy with resources like humans, wood and power, and
