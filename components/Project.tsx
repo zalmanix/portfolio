@@ -12,21 +12,23 @@ interface ProjectInterface {
 
 export default function Project(props: ProjectInterface) {
   const classes: string = props.imagePosition;
-  const modal = useRef(null);
+  const modal = useRef<HTMLDivElement>(null);
 
   const closeModal = () => {
     if (modal.current != null) {
-    const modalNode = modal.current;
+      const modalNode = modal.current;
 
 
-    modalNode.style.display = 'none';
+      modalNode.style.display = 'none';
     }
   };
 
   const openModal = () => {
-    const modalNode = modal.current;
+    if (modal.current != null) {
+      const modalNode = modal.current;
 
-    modalNode.style.display = 'block';
+      modalNode.style.display = 'block';
+    }
   };
 
   return (
