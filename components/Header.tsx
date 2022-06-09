@@ -1,5 +1,7 @@
 import * as React from 'react';
 import Head from 'next/head'
+import Link from 'next/link'
+
 import styles from '../styles/components/Header.module.scss';
 
 import LinkIcon from './LinkIcon';
@@ -20,9 +22,11 @@ export default function Header() {
       </Head>
 
       <div>
-        <a href="/">
-          zalmanix
-        </a>
+        <Link href="/">
+          <a>
+            zalmanix
+          </a>
+        </Link>
       </div>
 
       <LinkIcon />
