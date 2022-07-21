@@ -18,6 +18,7 @@ export default function Header() {
       <Head>
         <title>{meta.title}</title>
         <meta name="description" content={meta.description} />
+        <meta name="site-verification" CONTENT="zlezenia"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
