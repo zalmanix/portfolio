@@ -1,0 +1,8 @@
+{
+  "hello": "hi",
+  "about": {
+    "img_alt": "My avatar that i use in internet",
+    "sub_header": "Web developer, SEO specialist and hopefully funny guy",
+    "description": "I started programming when I was 13 years old. My journy began with games like a lot of my friends at the time I played off most of the time of the day. My IT teacher showed me the Scratch and I clumsyly began to try to make a game. It does not ended up well. :3 But by age 17 I got a few games on my resume and even won 2'en place in Game Jam Rzeszów with my friends. Now I worked with Vue and React even with Wordpress helping shools in Poland to meet WCAG 2.1 standards by making anew the shool websites and teaching how to proceed forward with beeing friendly to less fortunate people that accesebylity."
+  }
+}
