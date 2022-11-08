@@ -2,10 +2,11 @@ import Head from "next/head";
 
 import { Header } from "../components/Header";
 import { About } from "../components/About";
+import { Funny } from "../components/Funny";
 
 export default function Home() {
   return (
-    <div className="min-w-[1200px] min-h-screen mx-auto">
+    <div className="min-w-[1200px] min-h-screen mx-auto h-[300vh]">
       <Head>
         <title>Maksymilian Skórnóg</title>
         <meta
@@ -19,6 +20,7 @@ export default function Home() {
         <Header />
 
         <About />
+        <Funny />
       </main>
 
       {/* <footer className={styles.footer}>

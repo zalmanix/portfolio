@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Text = ({
+export const H2 = ({
   text,
   className = "",
   specialText,
@@ -21,5 +21,5 @@ export const Text = ({
     ) : (
       text
     );
-  return <p className={`text-black font-Rubik ${className}`}>{content}</p>;
+  return <h2 className={`text-[27px] text-black ${className}`}>{content}</h2>;
 };

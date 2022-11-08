@@ -4,5 +4,12 @@
     "img_alt": "My avatar that i use in internet",
     "sub_header": "Web developer, SEO specialist and hopefully funny guy",
     "description": "I started programming when I was 13 years old. My journy began with games like a lot of my friends at the time I played off most of the time of the day. My IT teacher showed me the Scratch and I clumsyly began to try to make a game. It does not ended up well. :3 But by age 17 I got a few games on my resume and even won 2'en place in Game Jam Rzeszów with my friends. Now I worked with Vue and React even with Wordpress helping shools in Poland to meet WCAG 2.1 standards by making anew the shool websites and teaching how to proceed forward with beeing friendly to less fortunate people that accesebylity."
+  },
+  "funny": {
+    "sub_header": "the funny",
+    "header": "I try to make world a bit hapier around me",
+    "description": "What were you thinking? It's my portfolio of course I will be needing the text to show off my animations (did you see the animation of the image next to the text, awsome right? ^^), here have some of the fun stories that I know. So my granddad is a trikster and aven thought he's 65 he still amazes me with his pranks, like ... ",
+    "fiat_story": "When he was working as a guard in a prison near our house he has a collegue with a really small car, so small in fact that my grandpa and his homies took it up and \"reparked\" it beetween the trees so he could not go forwards and backwards. Pek comedy I know :proud_emoji:",
+    "our_horse": "When I was a little kid we had a horse, also my grandpa's doing, so every time he heard bell from the church's twer go off he would stay straight like a pole and do not budge until given some kind of snack. "
   }
 }
