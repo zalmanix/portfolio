@@ -6,7 +6,7 @@ import { Funny } from "../components/Funny";
 
 export default function Home() {
   return (
-    <div className="min-w-[1200px] min-h-screen mx-auto h-[300vh]">
+    <div className="min-w-[1200px] min-h-screen mx-auto h-[300vh] bg-background-50">
       <Head>
         <title>Maksymilian Skórnóg</title>
         <meta
