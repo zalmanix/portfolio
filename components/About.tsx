@@ -9,8 +9,8 @@ export const About = () => {
   const { t } = useTranslation("about");
 
   return (
-    <section className="flex flex-col gap-6 pt-[126px] min-h-[550px] px-[8%]">
-      <p className="pt-36 uppercase">Two words about me</p>
+    <section className="flex flex-col justify-center gap-6 mt-[250px] min-h-[550px] px-[8%] bg-background-200">
+      <p className="uppercase font-Inter">Two words about me</p>
 
       <H2 text={t.sub_header} className="pb-12 pt-2" />
 

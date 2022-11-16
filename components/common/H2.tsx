@@ -21,5 +21,5 @@ export const H2 = ({
     ) : (
       text
     );
-  return <h2 className={`text-[27px] text-black ${className}`}>{content}</h2>;
+  return <h2 className={`text-[27px] font-Inter ${className}`}>{content}</h2>;
 };

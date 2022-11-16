@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         Rubik: ["Rubik", "sans-serif"],
+        Inter: ["Inter", "sans-serif"]
       },
       colors: {
         black: "#000000",
@@ -16,9 +17,9 @@ module.exports = {
         "primary-yellow": "#A38C49",
         "primary-blue": "#4960A3",
         background: {
-          50: "#4B484D",
+          50: "#29292b",
           100: "#413F3B",
-          200: "#0D1113",
+          200: "#18171b",
           300: "#13181C",
         },
         "neutral-grayscale": {

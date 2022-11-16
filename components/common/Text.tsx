@@ -21,5 +21,5 @@ export const Text = ({
     ) : (
       text
     );
-  return <p className={`text-black font-Rubik ${className}`}>{content}</p>;
+  return <p className={` font-Rubik ${className}`}>{content}</p>;
 };
